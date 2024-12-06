@@ -1,5 +1,5 @@
 export default {
-  name: 'NewsData',
+  name: 'newsData',
   type: 'document',
   title: 'NewsData',
   fields: [
@@ -9,22 +9,23 @@ export default {
       title: 'News title',
     },
     {
-      type: 'slug',
-      title: 'Slug',
-      name: 'slug',
-      options: {
-        source:'title',
-      }
-    },
-    {
-      name:'newsImage',
+      name: 'newsImage',
       type: 'image',
       title: 'News Image',
     },
     {
-      name:'smallDescription',
-      type:'text',
-      title: 'Description',
+      name: 'smallDescription',
+      type: 'text',
+      title: 'Small Description',
     },
-  ]
-}
+    {
+      name: 'publishedDate', // Unique field name
+      type: 'date', // Field type (use 'datetime' for time as well)
+      title: 'Published Date',
+      options: {
+        dateFormat: 'YYYY-MM-DD', // Optional date format
+        calendarTodayLabel: 'Today', // Optional "Today" label in the calendar
+      },
+    },
+  ],
+};

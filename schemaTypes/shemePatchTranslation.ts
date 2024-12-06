@@ -1,7 +1,7 @@
 export default {
   name: 'TranslationData',
   type: 'document',
-  title: 'Translation Data',
+  title: 'Archeage Patch Translation Data',
   fields: [
     {
       name: 'title',
