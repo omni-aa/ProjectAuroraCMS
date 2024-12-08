@@ -7,6 +7,12 @@ import SchemeErenorCraftingGuide from './Schemas/schemeErenorCraftingGuide'
 import SchemeQuestsEvents from './Schemas/schemeQuestsEvents'
 import schemeCostumeUndergarments from './Schemas/schemeCostumeUndergarments'
 import schemeAchievementCollectionGuides from './Schemas/schemeAchievementCollectionGuides'
+import schemeMeleeGuide from './Schemas/SchemaClassGuides/SchemeMeleeGuide'
+import schemeTankGuide from './Schemas/SchemaClassGuides/schemeTankGuide'
+import schemeMageGuide from './Schemas/SchemaClassGuides/schemeMageGuide'
+import schemeArcheryGuide from './Schemas/SchemaClassGuides/schemeArcheryGuide'
+import schemeGunnerGuide from './Schemas/SchemaClassGuides/schemeGunnerGuide'
+import schemeHealerGuide from './Schemas/SchemaClassGuides/schemeHealerGuide'
 export const schemaTypes = [
   NewsData,
   TranslationData,
@@ -16,7 +22,15 @@ export const schemaTypes = [
   SchemeErenorCraftingGuide,
   SchemeQuestsEvents,
   schemeCostumeUndergarments,
-  schemeAchievementCollectionGuides
+  schemeAchievementCollectionGuides,
+  schemeMeleeGuide,
+  schemeTankGuide,
+  schemeMageGuide,
+  schemeArcheryGuide,
+  schemeGunnerGuide,
+  schemeHealerGuide
+
+
 
 
 ]
