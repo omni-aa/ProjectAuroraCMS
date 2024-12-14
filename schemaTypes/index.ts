@@ -13,6 +13,7 @@ import schemeMageGuide from './Schemas/SchemaClassGuides/schemeMageGuide'
 import schemeArcheryGuide from './Schemas/SchemaClassGuides/schemeArcheryGuide'
 import schemeGunnerGuide from './Schemas/SchemaClassGuides/schemeGunnerGuide'
 import schemeHealerGuide from './Schemas/SchemaClassGuides/schemeHealerGuide'
+import EventTimers from './Schemas/schemeTimers'
 export const schemaTypes = [
   NewsData,
   TranslationData,
@@ -28,7 +29,8 @@ export const schemaTypes = [
   schemeMageGuide,
   schemeArcheryGuide,
   schemeGunnerGuide,
-  schemeHealerGuide
+  schemeHealerGuide,
+  EventTimers
 
 
 
