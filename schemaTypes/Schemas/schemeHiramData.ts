@@ -26,8 +26,25 @@ export default {
       of:[
         {
           type: 'block',
-        }
-      ]
-    }
-  ]
-}
+        },
+        {
+          type: 'image',
+          options: {
+            hotspot:true,
+          },
+          fields: [
+            {
+              name: 'alt',
+              type: 'string',
+              title: 'Alt Text',
+              description:'Important for SEO',
+              options:{
+                isHighlighted:true
+              },
+            },
+          ],
+        },
+      ],
+    },
+  ],
+};

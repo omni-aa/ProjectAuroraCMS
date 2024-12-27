@@ -31,8 +31,4 @@ export const schemaTypes = [
   schemeGunnerGuide,
   schemeHealerGuide,
   EventTimers
-
-
-
-
 ]
