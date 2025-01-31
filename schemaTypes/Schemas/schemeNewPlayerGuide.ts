@@ -22,12 +22,29 @@ export default {
     {
       name:'guideData',
       type:'array',
-      title: 'Enter Guideasdasd Data',
+      title: 'Enter Guides Data',
       of:[
         {
           type: 'block',
-        }
-      ]
-    }
+        },
+        {
+          type: 'image',
+          options: {
+            hotspot:true,
+          },
+          fields: [
+            {
+              name: 'alt',
+              type: 'string',
+              title: 'Alt Text',
+              description:'Important for SEO',
+              options:{
+                isHighlighted:true
+              },
+            },
+          ],
+        },
+      ],
+    },
     ]
 }
