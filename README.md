@@ -6,4 +6,4 @@ A **scalable CMS solution** built with **Sanity**, designed to efficiently store
 We're looking for passionate individuals to help bring **Project Aurora** to life!  
 **No coding experience required**—whether you want to contribute ideas, assist with content, or support in other ways, we'd love to have you on board.  
 
-📩 **Contact Me:** [Your Preferred Contact Method Here]  
+📩 **Contact Me:** ```iamomni_``` - Discord   
