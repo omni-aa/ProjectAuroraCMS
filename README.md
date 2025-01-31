@@ -1,9 +1,9 @@
-# Sanity Clean Content Studio
+# ArcheRage Project Aurora CMS
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+A **scalable CMS solution** built with **Sanity**, designed to efficiently store and manage site data dynamically across the entire application. This system ensures seamless content updates, making it easier to maintain and expand your platform with flexibility and efficiency.
 
-Now you can do the following things:
+## 🚀 Join the Project  
+We're looking for passionate individuals to help bring **Project Aurora** to life!  
+**No coding experience required**—whether you want to contribute ideas, assist with content, or support in other ways, we'd love to have you on board.  
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+📩 **Contact Me:** [Your Preferred Contact Method Here]  
